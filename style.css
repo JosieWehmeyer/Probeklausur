@@ -1,0 +1,36 @@
+.Buttons {
+    text-align: center;
+}
+
+.Button1 {
+    background-color: blue;
+    color: white;
+    margin-right: 20px;
+}
+
+.Button2 {
+    background-color: green;
+    color: white;
+}
+
+.container-fluid {
+    background-color: black;
+    color: white;
+    text-align: center;
+    }
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+    text-align: right;
+    padding-left: 470px;
+}
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
